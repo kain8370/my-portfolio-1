@@ -1,0 +1,19 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    background: #2A2C2F;
+    margin: 0px;
+    position: relative;
+    color: #fff;
+    font-family: 'Inter';
+    padding-top: 30px;
+    padding-bottom: 48px;
+}
+
+.link {
+    color: #fff;
+}
+
+.link:hover {
+    opacity: 0.7;
+}

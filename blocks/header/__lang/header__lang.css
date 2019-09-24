@@ -1,0 +1,22 @@
+@import url('_select/_ru/header__lang_select_ru.css');
+
+.header__lang {
+    display: inline-block;
+    margin: 4px 16px 0 3px;
+    font-size: 18px;
+    line-height: 17px;
+}
+
+@media screen and (min-width: 768px) {
+    .header__lang {
+        font-size: 24px;
+        line-height: 23px;
+        margin-right: 21px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .header__lang {
+        margin-right: 9px;
+    }
+}

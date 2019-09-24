@@ -1,0 +1,34 @@
+.video__item-duration {
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    margin: 0;
+    position: absolute;
+    top: 107px;
+    left: 16px;
+}
+
+.video__item:last-of-type .video__item-duration {
+    top: 81px;
+}
+
+@media screen and (min-width: 375px) {
+    .video__item-duration {
+        left: 24px;
+    }
+
+    .video__item:last-of-type .video__item-duration {
+        top: 84px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .video__item-duration {
+        left: 32px;
+        top: 127px
+    }
+
+    .video__item:last-of-type .video__item-duration {
+        top: 126px;
+    }
+}

@@ -1,0 +1,11 @@
+@import url('__title/cover__title.css');
+@import url('__subtitle/cover__subtitle.css');
+@import url('__image/cover__image.css');
+
+.cover {
+    font-family: 'Inter';
+    width: 1184px;
+    height: 594px;
+    margin: 0 auto 85px;
+    position: relative;
+}

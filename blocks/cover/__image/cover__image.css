@@ -1,0 +1,41 @@
+.cover__image {
+    width: 100vw;
+    height: 40vh;
+    opacity: 0.5;
+}
+
+.cover__image:hover {
+    opacity: 0.3;
+}
+
+@media screen and (min-width: 375px) {
+    .cover__image {
+        height: 72vw;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cover__image {
+        background-image: url('../../../images/cover.jpg');
+        height: 65vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cover__image {
+        height: 55vw;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .cover__image {
+        height: 50%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .cover__image {
+        height: 41vw;
+    }
+}

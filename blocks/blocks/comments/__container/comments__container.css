@@ -1,0 +1,7 @@
+.comments__container {
+    width: 1184px;
+    height: 283px;
+    display: grid;
+    grid-template-columns: 382px 382px 382px;
+    grid-column-gap: 19px;
+}

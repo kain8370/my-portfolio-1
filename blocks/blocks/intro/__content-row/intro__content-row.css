@@ -1,0 +1,10 @@
+.intro__content-row {
+    width: 984px;
+    display: grid;
+    grid-template-columns: 683px 283px;
+    grid-template-rows: 154px;
+    grid-gap: 18px;
+}
+
+
+

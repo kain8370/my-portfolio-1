@@ -1,0 +1,8 @@
+.places {
+    font-family: 'Inter';
+    width: 984px;
+    height: 3362px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 106px;
+}

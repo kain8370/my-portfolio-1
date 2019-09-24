@@ -1,0 +1,9 @@
+@import url('_select/_ru/header__lang_select_ru.css');
+
+.header__lang {
+    display: inline-block;
+    margin: 8px 0 15px 20px;
+    font-size: 24px;
+    line-height: 23px;
+}
+

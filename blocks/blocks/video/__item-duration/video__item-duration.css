@@ -1,0 +1,11 @@
+.video__item-duration {
+    width: 44px;
+    height: 12px;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    margin: 0;
+    position: absolute;
+    top: 165px;
+    left: 30px;
+}

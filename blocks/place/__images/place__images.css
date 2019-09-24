@@ -1,0 +1,12 @@
+.place__images {
+    width: 100%;
+    margin: 35px 0 0 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place__images {
+            width: 97%;
+            padding-top: 11px;
+            margin: 0;
+        }
+}

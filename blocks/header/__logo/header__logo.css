@@ -1,0 +1,38 @@
+.header__logo {
+    width: 45%;
+    position: absolute;
+    top: -14px;
+    left: 16px;
+}
+
+@media screen and (min-width: 375px) {
+    .header__logo {
+        width: 38%;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .header__logo {
+        width: 23%;
+        top: -16px;
+        left: 24px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .header__logo {
+        width: 17%;
+        top: -16px;
+        left: 49px;
+    }
+}
+
+
+@media screen and (min-width: 1280px) {
+    .header__logo {
+        width: 14%;
+    }
+}
+
+

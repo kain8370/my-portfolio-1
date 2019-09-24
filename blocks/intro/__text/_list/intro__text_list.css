@@ -1,0 +1,29 @@
+.intro__text.intro__text_list {
+    list-style-type: none;
+    width: 383px;
+    font-size: 12px;
+    line-height: 19px;
+    padding: 0;
+    margin-top: 36px;
+    font-weight: lighter;
+}
+
+@media screen and (min-width: 768px) {
+    .intro__text.intro__text_list {
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 25px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro__text.intro__text_list {
+        margin-top: 19px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro__text.intro__text_list {
+        margin-top: 12px;
+    }
+}

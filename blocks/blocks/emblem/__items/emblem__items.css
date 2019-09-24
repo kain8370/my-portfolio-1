@@ -1,0 +1,5 @@
+.emblem__items {
+    display: grid;
+    grid-template-columns: repeat(5, 208px);
+    grid-gap: 36px;
+}

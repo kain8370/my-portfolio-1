@@ -1,0 +1,15 @@
+.place__url {
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    font-style: normal;
+    font-weight: normal;
+    margin: 9px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place__url {
+        margin: 8px 0 0 0;
+    }
+}
+

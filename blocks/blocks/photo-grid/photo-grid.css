@@ -1,0 +1,14 @@
+@import url('__item/photo-grid__item.css');
+@import url('__image/photo-grid__image.css');
+
+.photo-grid {
+    width: 1184px;
+    height: 596px;
+    font-family: 'Inter';
+    margin: 0 auto 0;
+    display: grid;
+    grid-template-columns: 284px 284px 284px 284px;
+    grid-template-rows: 188px 188px 188px;
+    grid-gap: 16px;
+    margin-bottom: 92px;
+}

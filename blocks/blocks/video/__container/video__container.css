@@ -1,0 +1,6 @@
+.video__container {
+    display: grid;
+    grid-template-columns: 583px 583px;
+    grid-template-rows: 323px;
+    grid-gap: 18px;
+}

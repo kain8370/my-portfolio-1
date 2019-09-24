@@ -1,0 +1,9 @@
+.additional__container {
+    width: 1184px;
+    height: 330px;
+    display: grid;
+    grid-template-columns: 284px 284px 284px 284px;
+    grid-template-rows: 330px;
+    grid-column-gap: 16px;
+    margin: 0 auto 0;
+}
